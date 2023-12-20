@@ -1,0 +1,405 @@
+[
+    {
+        "image_url":"image/AK.jpg",
+        "flight_number": "001",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/2P.jpg",
+        "flight_number": "002",
+        "airline": "image/AK.jpg",
+        "departure": "United Kingdom",
+        "destination": "Puerto Princesa",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+        
+    },
+    {
+        "image_url":"image/3K.jpg",
+        "flight_number": "003",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/ET.jpg",
+        "flight_number": "004",
+        "airline": "image/AK.jpg",
+        "departure": "United Kingdom",
+        "destination": "Puerto Princesa ",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/QR.jpg",
+        "flight_number": "005",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/NH.jpg",
+        "flight_number": "006",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    
+    {
+        "image_url":"image/KU.jpg",
+        "flight_number": "007",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/EK.jpg",
+        "flight_number": "008",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/AK.jpg",
+        "flight_number": "009",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/HA.jpg",
+        "flight_number": "0010",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/7C.jpg",
+        "flight_number": "0011",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/BI.jpg",
+        "flight_number": "0012",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/CA.jpg",
+        "flight_number": "0013",
+        "airline": "image/AK.jpg",
+        "departure": "Puerto Princesa",
+        "destination": "United Kingdom ",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/Dd.jpg",
+        "flight_number": "0014",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/CX.jpg",
+        "flight_number": "0015",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/DL.jpg",
+        "flight_number": "0016",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    
+    {
+        "image_url":"image/GF.jpg",
+        "flight_number": "0017",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/MH.jpg",
+        "flight_number": "0018",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/JT.jpg",
+        "flight_number": "0019",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/CA.jpg",
+        "flight_number": "0020",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/OZ.jpg",
+        "flight_number": "0021",
+        "airline": "Airline B",
+        "departure": "Chicago",
+        "destination": "Miami",
+        "departure_time": " 09:30:00",
+        "arrival_time": " 12:00:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/JL.jpg",
+        "flight_number": "0022",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/TR.jpg",
+        "flight_number": "0023",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/JQ.jpg",
+        "flight_number": "0024",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/AK.jpg",
+        "flight_number": "0025",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/AK.jpg",
+        "flight_number": "0026",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/EY.jpg",
+        "flight_number": "0027",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/ET.jpg",
+        "flight_number": "0028",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/CZ.jpg",
+        "flight_number": "0029",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/OZ.jpg",
+        "flight_number": "0030",
+        "airline": "Airline B",
+        "departure": "Chicago",
+        "destination": "Miami",
+        "departure_time": " 09:30:00",
+        "arrival_time": " 12:00:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/JL.jpg",
+        "flight_number": "0031",
+        "airline": "image/AK.jpg",
+        "departure": "Puerto Princesa",
+        "destination": "Puerto Princesa",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/TR.jpg",
+        "flight_number": "0032",
+        "airline": "image/AK.jpg",
+        "departure": "Puerto Princesa",
+        "destination": "Puerto Princesa",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/JQ.jpg",
+        "flight_number": "0033",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/AK.jpg",
+        "flight_number": "0034",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/AK.jpg",
+        "flight_number": "0035",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/EY.jpg",
+        "flight_number": "0036",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/ET.jpg",
+        "flight_number": "0037",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/CZ.jpg",
+        "flight_number": "0038",
+        "airline": "image/AK.jpg",
+        "departure": "New York",
+        "destination": "Los Angeles",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/CZ.jpg",
+        "flight_number": "0039",
+        "airline": "image/AK.jpg",
+        "departure": "Puerto Princesa",
+        "destination": "Puerto Princesa",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    },
+    {
+        "image_url":"image/BI.jpg",
+        "flight_number": "0040",
+        "airline": "image/AK.jpg",
+        "departure": "Puerto Princesa",
+        "destination": "Puerto Princesa",
+        "departure_time": "00:00",
+        "arrival_time": "30:00",
+        "status": "Boarding"
+    }
+]
